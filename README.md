@@ -4,6 +4,7 @@ This repository is meant to store small projects which are not worthy of having 
 Currently these are the projects stored:
 
 -STICKS (C)
+
 -CALCULATOR (C)
 
 --------------------------------------------------------------------------------
